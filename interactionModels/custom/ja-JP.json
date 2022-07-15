@@ -1,0 +1,85 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "マテリアル",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "まだ"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "助けて",
+            "ヘルプ"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "ReadyIntent",
+          "slots": [],
+          "samples": [
+            "いいよ"
+          ]
+        },
+        {
+          "name": "YesIntent",
+          "slots": [],
+          "samples": [
+            "はい"
+          ]
+        },
+        {
+          "name": "YestwoIntent",
+          "slots": [],
+          "samples": [
+            "出たい"
+          ]
+        },
+        {
+          "name": "YesthreeIntent",
+          "slots": [],
+          "samples": [
+            "Yes"
+          ]
+        },
+        {
+          "name": "NoIntent",
+          "slots": [],
+          "samples": [
+            "いいえ"
+          ]
+        },
+        {
+          "name": "NotwoIntent",
+          "slots": [],
+          "samples": [
+            "いやだ"
+          ]
+        },
+        {
+          "name": "NothreeIntent",
+          "slots": [],
+          "samples": [
+            "No"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "40"
+}
